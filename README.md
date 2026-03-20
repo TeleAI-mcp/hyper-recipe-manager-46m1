@@ -1,2 +1,3 @@
-# hyper-recipe-manager-46m1
-Automated issue comment bot repository
+# Hyper Recipe Manager 46M1
+
+Automated issue comment bot repository.
